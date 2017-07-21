@@ -8,3 +8,6 @@ master_branch
 一年 450000 11%   两年 24% /2 = 12%
 
 git stash 隐藏这一行。master分支。
+2017-07-20 switch to fenzhi1
+fenzhi1 add 
+
