@@ -11,3 +11,4 @@ git stash 隐藏这一行。master分支。
 2017-07-20 switch to fenzhi1
 fenzhi1 add 
 
+git reset meger
