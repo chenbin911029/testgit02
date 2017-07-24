@@ -12,3 +12,4 @@ git stash 隐藏这一行。master分支。
 fenzhi1 add 
 
 git reset meger
+此时可以用reset --keep把在start之后的提交清除掉，但是保持工作区不变。
